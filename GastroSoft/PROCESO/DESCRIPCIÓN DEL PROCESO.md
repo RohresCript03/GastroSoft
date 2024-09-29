@@ -13,6 +13,7 @@ Las herramientas utilizadas son principalmente cuatro, y son llevadas a cabo por
 * b)	Investigación de antecedentes (una persona): La idea es investigar en internet principalmente para saber como funcionan softwares que ya han sido desarrollados con objetivos parecidos, esto es muy importante para definir la propuesta de valor.
 * c)	Casos de uso (dos personas): Tanto esta herramienta como las historias de usuario son de mucha utilidad para definir los requerimientos, ya que los casos de uso son “simulaciones teóricas” de algunos procesos que el software debería ser capaz de realizar.
 * d)	Historias de usuario (una persona): Como indicado en el punto anterior, esta herramienta ayuda principalmente en sintetizar información necesaria para saber que procesos realmente necesitan diferentes usuarios.
+  
 Actualmente estamos al final de esta etapa, ya tenemos definidos los requerimientos iniciales (funcionales y no funcionales), las propuestas de valor y los objetivos.
 
 
