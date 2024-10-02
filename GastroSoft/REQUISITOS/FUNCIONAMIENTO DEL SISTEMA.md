@@ -1,4 +1,4 @@
-# **Gastosoft. Descripción de cómo funcionará el software, sus capacidades y condiciones.**
+# **GastroSoft. Descripción de cómo funcionará el software, sus capacidades y condiciones.**
 
 **Contabilidad:**
 
