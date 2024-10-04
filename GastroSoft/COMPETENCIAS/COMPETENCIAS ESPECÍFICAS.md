@@ -1,1 +1,1 @@
-# Analiza los principales métodos, téctnicas, procedimientos y buenas prácticas utilizados en las fases de requisitos.
+# Analiza los principales métodos, técnicas, procedimientos y buenas prácticas utilizados en las fases de requisitos.
