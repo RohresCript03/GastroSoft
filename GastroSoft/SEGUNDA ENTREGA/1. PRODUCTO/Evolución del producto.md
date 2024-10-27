@@ -1,1 +1,2 @@
-
+# Evolución del producto
+Entre la primera y la segunda entrega del proyecto "GastroSoft", surgieron cambios que permitieron tener una mejor claridad de las necesidades de los usuarios identificados, siempre teniendo en mente satisfacer nuestro objetivo de hacer más faciles y ágiles los procesos de ventas de un restaurante y/o cafetería, así como la optimización de la administración y la parte financiera del mismo.
