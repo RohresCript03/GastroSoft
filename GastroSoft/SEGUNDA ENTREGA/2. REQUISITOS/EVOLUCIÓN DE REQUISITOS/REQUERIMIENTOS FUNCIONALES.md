@@ -10,7 +10,7 @@ El sistema permitirá que el mesero pueda editar los ingredientes en los platill
 El software mostrará un mapa de las mesas del establecimiento y señalará el estado de estas (libre, ocupada, reservada o en espera de su orden).
 - **RF-005 Proporcionar stock de ingredientes**
 El software permitirá ver el inventario de insumos y productos en el establecimiento.
--**RF-006 Notificar cuando un insumo esté agotándose**
+- **RF-006 Notificar cuando un insumo esté agotándose**
 El sistema dará un aviso cuando haya poca cantidad de un insumo para prevenir que estos se agoten y no se pueda preparar algún platillo.
 - **RF-007 No permitir realizar un pedido si un platillo está agotado**
 El sistema no permitirá que un platillo sea registrado en un pedido si este ha sido registrado como “agotado” en el sistema. 
