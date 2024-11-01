@@ -14,8 +14,6 @@ El software permitirá ver el inventario de insumos y productos en el establecim
 El sistema dará un aviso cuando haya poca cantidad de un insumo para prevenir que estos se agoten y no se pueda preparar algún platillo.
 - **RF-007 No permitir realizar un pedido si un platillo está agotado**
 El sistema no permitirá que un platillo sea registrado en un pedido si este ha sido registrado como “agotado” en el sistema. 
-- **RF-008 Guardar las recetas usadas para la preparación de platillos**
-El sistema permitirá que el dueño del establecimiento guarde las recetas y la cantidad de insumos usados en cada una de ellas para tener un mejor control de lo que es usado en cada platillo.
-- **RF-009 Información de ingresos y egresos del restaurante**
+- **RF-008 Información de ingresos y egresos del restaurante**
 El software registrará las ventas realizadas en el establecimiento, así como los gastos para que al finalizar el mes proporcione estadísticas de ganancias del negocio.
 
