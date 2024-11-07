@@ -1,6 +1,6 @@
 # *Requerimientos Funcionales*
 
--	**RNF-001 Registrar pedidos**
+-	**RF-001 Registrar pedidos**
 El sistema permitirá al mesero registrar los pedidos realizados por el cliente. El cliente también podrá registrar un pedido por medio de la aplicación móvil del establecimiento.	
 - **RF-002 Determinar que un pedido ha sido completado**
 El software notificará al mesero que realizó el pedido una vez que este haya sido completado.
