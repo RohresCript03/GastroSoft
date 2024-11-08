@@ -12,3 +12,11 @@ https://youtu.be/fXE4yBGx0dw
 
 ## Mesero
 https://youtu.be/Hv8g7SDfzwM?si=EBxwrAW_-IkOOVoNFtUBdy
+
+## Recepcionista
+
+https://youtu.be/Bj9OZu6dLmc?si=_kMRomlVT2xzBHBe
+
+https://youtu.be/urSfK0FdwBE?si=GM22EDdWGc1guTbI
+
+https://youtu.be/hVYwdW-kX18?si=aoyGREj9sDLOIgnh
